@@ -1,0 +1,15 @@
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\bin\Debug\net6.0\Encontro.exe
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\bin\Debug\net6.0\Encontro.deps.json
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\bin\Debug\net6.0\Encontro.runtimeconfig.json
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\bin\Debug\net6.0\Encontro.dll
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\bin\Debug\net6.0\Encontro.pdb
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\Encontro.csproj.AssemblyReference.cache
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\Encontro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\Encontro.AssemblyInfoInputs.cache
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\Encontro.AssemblyInfo.cs
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\Encontro.csproj.CoreCompileInputs.cache
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\Encontro.dll
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\refint\Encontro.dll
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\Encontro.pdb
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\Encontro.genruntimeconfig.cache
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\Encontro\obj\Debug\net6.0\ref\Encontro.dll
